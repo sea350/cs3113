@@ -1,7 +1,2 @@
-﻿  main.cpp
-c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\hw2\nyucodebase\main.cpp(44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\hw2\nyucodebase\main.cpp(114): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\hw2\nyucodebase\main.cpp(191): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\hw2\nyucodebase\main.cpp(192): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-  NYUCodebase.vcxproj -> C:\Users\Nevets\Dropbox\important\NYU_POLY\2017bSpring\cs3113\hw2\Debug\NYUCodebase.exe
-  NYUCodebase.vcxproj -> C:\Users\Nevets\Dropbox\important\NYU_POLY\2017bSpring\cs3113\hw2\Debug\NYUCodebase.pdb (Full PDB)
+﻿  NYUCodebase.vcxproj -> C:\Users\sarmanios\Dropbox\important\NYU_POLY\2017bSpring\cs3113\hw2\Debug\NYUCodebase.exe
+  NYUCodebase.vcxproj -> C:\Users\sarmanios\Dropbox\important\NYU_POLY\2017bSpring\cs3113\hw2\Debug\NYUCodebase.pdb (Full PDB)
