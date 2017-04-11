@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\hw5\nyucodebase\main.cpp(114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\hw5\nyucodebase\main.cpp(156): warning C4018: '<': signed/unsigned mismatch
+c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\hw5\nyucodebase\main.cpp(159): warning C4018: '<': signed/unsigned mismatch
+c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\hw5\nyucodebase\main.cpp(173): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\hw5\nyucodebase\main.cpp(174): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\hw5\nyucodebase\main.cpp(176): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\hw5\nyucodebase\main.cpp(202): warning C4018: '<': signed/unsigned mismatch
+c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\hw5\nyucodebase\main.cpp(220): warning C4018: '<': signed/unsigned mismatch
+c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\hw5\nyucodebase\main.cpp(244): warning C4018: '<': signed/unsigned mismatch
+c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\hw5\nyucodebase\main.cpp(252): warning C4018: '<': signed/unsigned mismatch
+c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\hw5\nyucodebase\main.cpp(347): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\hw5\nyucodebase\main.cpp(348): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\hw5\nyucodebase\main.cpp(349): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  NYUCodebase.vcxproj -> C:\Users\Nevets\Dropbox\important\NYU_POLY\2017bSpring\cs3113\hw5\Debug\NYUCodebase.exe
+  NYUCodebase.vcxproj -> C:\Users\Nevets\Dropbox\important\NYU_POLY\2017bSpring\cs3113\hw5\Debug\NYUCodebase.pdb (Full PDB)
