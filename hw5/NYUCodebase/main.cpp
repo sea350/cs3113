@@ -108,14 +108,14 @@ struct entity
 			-0.8*sin(rotation*(3.1415926 / 180)) + 0.8*(cos(rotation*(3.1415926 / 180))) + y));
 			*/
 
-		vertices.push_back(Vector(-50*cos(rotation) + (-50*(-sin(rotation))) + x,
-			-50*sin(rotation) - 50*(cos(rotation)) + y));
-		vertices.push_back(Vector(0.8*cos(rotation) - 50 *(-sin(rotation)) + x,
-			50 *sin(rotation) - 50 *(cos(rotation)) + y));
-		vertices.push_back(Vector(50 *cos(rotation) + 50 *(-sin(rotation)) + x,
-			50 *sin(rotation) + 50 *(cos(rotation)) + y));
-		vertices.push_back(Vector(-50 *cos(rotation) + 50 *(-sin(rotation)) + x,
-			-50 *sin(rotation) + 50 *(cos(rotation)) + y));
+		vertices.push_back(Vector(-(width / 2) * cos(rotation) + (-(height / 2) * (-sin(rotation))) + x,
+			-(width / 2) * sin(rotation) - (height / 2) * (cos(rotation)) + y));
+		vertices.push_back(Vector((width / 2) * cos(rotation) - (height / 2) * (-sin(rotation)) + x,
+			(width / 2) * sin(rotation) - (height / 2) * (cos(rotation)) + y));
+		vertices.push_back(Vector((width / 2) * cos(rotation) + (height / 2) * (-sin(rotation)) + x,
+			(width / 2) * sin(rotation) + (height / 2) * (cos(rotation)) + y));
+		vertices.push_back(Vector(-(width / 2) * cos(rotation) + (height / 2) * (-sin(rotation)) + x,
+			-(width / 2) * sin(rotation) + (height / 2) * (cos(rotation)) + y));
 
 
 		return vertices;
@@ -344,9 +344,9 @@ int main(int argc, char *argv[])
 		const Uint8 *keys = SDL_GetKeyboardState(NULL);
 		//-------------------ENTER STUFFE PAST HERE-----------
 		
-		red.rotation += elapsed*.5;
-		blue.rotation += elapsed*.3;
-		green.rotation += elapsed*.7;
+		red.rotation += elapsed*.25;
+		blue.rotation += elapsed*.15;
+		green.rotation += elapsed*.35;
 
 		redVertices = red.getVertices();
 		blueVertices = blue.getVertices();
