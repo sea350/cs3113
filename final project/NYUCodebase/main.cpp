@@ -382,6 +382,8 @@ int main(int argc, char *argv[])
 		glewInit();
 	#endif
 
+		glEnable(GL_BLEND);
+		glBlendFunc(GL_SRC_ALPHA,GL_ONE_MINUS_SRC_ALPHA);
 	SDL_Event event;
 	bool done = false;
 

@@ -1,24 +1,24 @@
 ﻿  main.cpp
-c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(149): warning C4018: '<': signed/unsigned mismatch
-c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(152): warning C4018: '<': signed/unsigned mismatch
-c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(166): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(167): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(169): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(195): warning C4018: '<': signed/unsigned mismatch
-c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(213): warning C4018: '<': signed/unsigned mismatch
-c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(237): warning C4018: '<': signed/unsigned mismatch
-c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(245): warning C4018: '<': signed/unsigned mismatch
-c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(311): warning C4018: '>=': signed/unsigned mismatch
-c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(777): warning C4018: '<': signed/unsigned mismatch
-c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(786): warning C4018: '<': signed/unsigned mismatch
-c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(794): warning C4018: '<': signed/unsigned mismatch
-c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(809): warning C4018: '<': signed/unsigned mismatch
-c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(820): warning C4018: '<': signed/unsigned mismatch
-c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(1054): warning C4018: '<': signed/unsigned mismatch
-c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(1063): warning C4018: '<': signed/unsigned mismatch
-c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(1075): warning C4018: '<': signed/unsigned mismatch
-c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(1084): warning C4018: '<': signed/unsigned mismatch
-c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(1126): warning C4018: '<': signed/unsigned mismatch
-c:\users\nevets\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(1136): warning C4018: '<': signed/unsigned mismatch
-  NYUCodebase.vcxproj -> C:\Users\Nevets\Dropbox\important\NYU_POLY\2017bSpring\cs3113\final project\Debug\NYUCodebase.exe
-  NYUCodebase.vcxproj -> C:\Users\Nevets\Dropbox\important\NYU_POLY\2017bSpring\cs3113\final project\Debug\NYUCodebase.pdb (Full PDB)
+c:\users\sarmanios\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(149): warning C4018: '<': signed/unsigned mismatch
+c:\users\sarmanios\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(152): warning C4018: '<': signed/unsigned mismatch
+c:\users\sarmanios\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(166): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sarmanios\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(167): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sarmanios\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(169): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sarmanios\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(195): warning C4018: '<': signed/unsigned mismatch
+c:\users\sarmanios\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(213): warning C4018: '<': signed/unsigned mismatch
+c:\users\sarmanios\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(237): warning C4018: '<': signed/unsigned mismatch
+c:\users\sarmanios\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(245): warning C4018: '<': signed/unsigned mismatch
+c:\users\sarmanios\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(311): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sarmanios\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(779): warning C4018: '<': signed/unsigned mismatch
+c:\users\sarmanios\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(788): warning C4018: '<': signed/unsigned mismatch
+c:\users\sarmanios\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(796): warning C4018: '<': signed/unsigned mismatch
+c:\users\sarmanios\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(811): warning C4018: '<': signed/unsigned mismatch
+c:\users\sarmanios\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(822): warning C4018: '<': signed/unsigned mismatch
+c:\users\sarmanios\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(1056): warning C4018: '<': signed/unsigned mismatch
+c:\users\sarmanios\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(1065): warning C4018: '<': signed/unsigned mismatch
+c:\users\sarmanios\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(1077): warning C4018: '<': signed/unsigned mismatch
+c:\users\sarmanios\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(1086): warning C4018: '<': signed/unsigned mismatch
+c:\users\sarmanios\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(1128): warning C4018: '<': signed/unsigned mismatch
+c:\users\sarmanios\dropbox\important\nyu_poly\2017bspring\cs3113\final project\nyucodebase\main.cpp(1138): warning C4018: '<': signed/unsigned mismatch
+  NYUCodebase.vcxproj -> C:\Users\sarmanios\Dropbox\important\NYU_POLY\2017bSpring\cs3113\final project\Debug\NYUCodebase.exe
+  NYUCodebase.vcxproj -> C:\Users\sarmanios\Dropbox\important\NYU_POLY\2017bSpring\cs3113\final project\Debug\NYUCodebase.pdb (Full PDB)
